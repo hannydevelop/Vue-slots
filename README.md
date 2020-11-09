@@ -41,4 +41,4 @@ npm run dev
 
 To test application, go over to localhost http://localhost:8080/ or http://localhost:8081/ according to the port available in your working environment.
 
-If you have any questions or suggestions concerning this repository, feel free to [contact](http://twitter/hannydevelop) me or create an issue.
+If you have any questions or suggestions concerning this repository, feel free to [contact](https://twitter.com/hannydevelop) me or create an issue.
