@@ -1,8 +1,8 @@
 <template>
 <div>
   <div>
+    <h1 class="title">List of Different Forms Built With Vue-Slots</h1>
     <slot name="title1"></slot>
-    <h2>I am the form helper</h2>
     <slot name="form1"></slot>
     <slot name="button1"></slot>
   </div>
@@ -24,3 +24,9 @@ export default {
   name: 'Forms',
     }
 </script>
+
+<style scoped>
+.title{
+  text-align: center;
+}
+</style>
